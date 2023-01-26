@@ -1,16 +1,15 @@
-### Hi there 👋
+### ZIHASOO 😆
 
-<!--
-**zihasoo/zihasoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zihasoo)](https://solved.ac/zihasoo/)
 
-Here are some ideas to get you started:
+### Skils
+![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=CPlusPlus&logoColor=white)
+![C#](https://img.shields.io/badge/C%20Sharp-239120.svg?&style=for-the-badge&logo=C%20Sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-black.svg?&style=for-the-badge&logo=Unity#&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FF7800.svg?&style=for-the-badge&logo=Gradle&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=Dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+***개발은 단순하다. 다만, 우리가 복잡하게 만들 뿐이다.***
