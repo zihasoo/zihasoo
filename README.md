@@ -12,4 +12,4 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=Dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
 
-***개발은 단순하다. 다만, 우리가 복잡하게 만들 뿐이다.***
+***Life is really simple, but we insist on making it complicated.***
